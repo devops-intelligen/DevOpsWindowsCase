@@ -1,0 +1,21 @@
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\DevOpsWindowCase.Test.dll
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\DevOpsWindowCase.Test.pdb
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\DevOpsWindowCase.exe
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\DevOpsWindowCase.pdb
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\DevOpsWindowCase.exe.config
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\obj\Debug\DevOpsWindowCase.Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\obj\Debug\DevOpsWindowCase.Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\obj\Debug\DevOpsWindowCase.Test.dll
+C:\Users\Administrator\source\repos\DevOpsWindowCase.Test\DevOpsWindowCase.Test\obj\Debug\DevOpsWindowCase.Test.pdb
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\DevOpsWindowCase.Test.dll
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\DevOpsWindowCase.Test.pdb
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\nunit.framework.dll
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\DevOpsWindowCase.pdb
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\DevOpsWindowCase.exe.config
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase.Test\DevOpsWindowCase.Test\bin\Debug\nunit.framework.xml
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase.Test\DevOpsWindowCase.Test\obj\Debug\DevOpsWindowCase.Test.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase.Test\DevOpsWindowCase.Test\obj\Debug\DevOpsWindowCase.Test.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase.Test\DevOpsWindowCase.Test\obj\Debug\DevOpsWindowCase.Test.dll
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase.Test\DevOpsWindowCase.Test\obj\Debug\DevOpsWindowCase.Test.pdb

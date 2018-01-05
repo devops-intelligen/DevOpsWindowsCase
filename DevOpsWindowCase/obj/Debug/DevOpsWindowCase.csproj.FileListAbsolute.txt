@@ -1,0 +1,20 @@
+C:\Users\Administrator\source\repos\DevOpsWindowCase\DevOpsWindowCase\bin\Debug\DevOpsWindowCase.exe.config
+C:\Users\Administrator\source\repos\DevOpsWindowCase\DevOpsWindowCase\bin\Debug\DevOpsWindowCase.exe
+C:\Users\Administrator\source\repos\DevOpsWindowCase\DevOpsWindowCase\bin\Debug\DevOpsWindowCase.pdb
+C:\Users\Administrator\source\repos\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.DevOpsWindowCase.resources
+C:\Users\Administrator\source\repos\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.exe
+C:\Users\Administrator\source\repos\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.pdb
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase\bin\Debug\DevOpsWindowCase.exe.config
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase\bin\Debug\DevOpsWindowCase.exe
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase\bin\Debug\DevOpsWindowCase.pdb
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.DevOpsWindowCase.resources
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.Properties.Resources.resources
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.exe
+C:\Program Files (x86)\Jenkins\workspace\DevOpsWindowCase\DevOpsWindowCase\obj\Debug\DevOpsWindowCase.pdb
